@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/tsl025/Desktop/Android-N/ButtonClickCounter/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "C:\\Users\\User\\Desktop\\Android - N\\ButtonClickCounter\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/Users/tsl025/Desktop/Android-N/ButtonClickCounter/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/res/values/values.xml",
+                    "file": "C:\\Users\\User\\.android\\build-cache\\d335f6b978e3431a0d3c1814c00f574ac47bdc7b\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
